@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/appointments-app/static/css/main.ac94b7dc.css",
-    "main.js": "/appointments-app/static/js/main.ef845576.js",
-    "index.html": "/appointments-app/index.html",
-    "main.ac94b7dc.css.map": "/appointments-app/static/css/main.ac94b7dc.css.map",
-    "main.ef845576.js.map": "/appointments-app/static/js/main.ef845576.js.map"
+    "main.css": "/Appointments-App/static/css/main.ac94b7dc.css",
+    "main.js": "/Appointments-App/static/js/main.ef845576.js",
+    "index.html": "/Appointments-App/index.html",
+    "main.ac94b7dc.css.map": "/Appointments-App/static/css/main.ac94b7dc.css.map",
+    "main.ef845576.js.map": "/Appointments-App/static/js/main.ef845576.js.map"
   },
   "entrypoints": [
     "static/css/main.ac94b7dc.css",
